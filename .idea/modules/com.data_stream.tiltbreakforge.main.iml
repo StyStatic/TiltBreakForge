@@ -19,9 +19,9 @@
   </component>
   <component name="McpModuleSettings">
     <option name="mappingFile" value="D:\TiltBreakForge\build\createMcpToSrg\output.tsrg" />
-    <option name="mcpVersion" value="official_1.20.4" />
-    <option name="minecraftVersion" value="1.20.4" />
-    <option name="platformVersion" value="49.0.9" />
+    <option name="mcpVersion" value="official_1.21" />
+    <option name="minecraftVersion" value="1.21" />
+    <option name="platformVersion" value="51.0.23" />
     <option name="srgType" value="TSRG" />
   </component>
 </module>

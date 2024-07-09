@@ -10,6 +10,8 @@
         <module name="com.data_stream.tiltbreakforge.main" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel target="17" />
+    <bytecodeTargetLevel target="21">
+      <module name="tiltbreakforge.test" target="21" />
+    </bytecodeTargetLevel>
   </component>
 </project>
